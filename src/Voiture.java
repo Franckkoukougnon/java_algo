@@ -1,4 +1,4 @@
-public class Voiture extends Vehicule{
+public class Voiture extends Vehicule {
 
 
     public Voiture(String nom, String marque) {
@@ -11,7 +11,11 @@ public class Voiture extends Vehicule{
 
     }
 
+    @Override
+    String makeSound() {
 
+        return "Vroomm";
+    }
 
 
 }

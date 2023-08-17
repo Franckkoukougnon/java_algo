@@ -1,6 +1,7 @@
 public abstract class Vehicule {
-    String nom;
-    String marque;
+    public String nom;
+    private String marque;
+    protected String puissance;
 
     public Vehicule(String nom, String marque) {
         this.nom = nom;
@@ -8,6 +9,11 @@ public abstract class Vehicule {
     }
 
     public abstract void demarrer();
+
+    String makeSound(){
+        System.out.println("faire du bruit");
+        return null;
+    }
 
     public  void activerAIrBag(){
         System.out.println("je demarre ma "+nom);
