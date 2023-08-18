@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44940577-4153-44e9-9e9c-e2ed73546558" name="Changes" comment="resolution Algo moto">
-      <change afterPath="$PROJECT_DIR$/src/BatailleAlgo.java" afterDir="false" />
+    <list default="true" id="44940577-4153-44e9-9e9c-e2ed73546558" name="Changes" comment="Algo Bataille">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bataille.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bataille.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BatailleAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BatailleAlgo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692280901535</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Algo Bataille">
+      <created>1692353781083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692353781083</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="revisions Java algo" />
     <MESSAGE value="resolution Algo moto" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolution Algo moto" />
+    <MESSAGE value="Algo Bataille" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algo Bataille" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

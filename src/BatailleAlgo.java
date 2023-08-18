@@ -25,10 +25,10 @@ public class BatailleAlgo {
             System.out.println("Joueur B a joué "+ randomCard_B);
 
             if(randomCard_A > randomCard_B){
-                System.out.println(" Joueur A a joué la partie " + partie);
+                System.out.println("Joueur A a gagné la partie " + partie);
                 score_joueur_A ++;
             } else if(randomCard_B > randomCard_A){
-                System.out.println("Joueur B a joué la partie " + partie);
+                System.out.println("Joueur B a gagné la partie " + partie);
                 score_joueur_B ++;
             } else {
                 System.out.println("egalité");
@@ -39,8 +39,14 @@ public class BatailleAlgo {
 
 
         }
-
         System.out.println("Le score final est de , Joueur A :" + score_joueur_A + " | joueur B :" + score_joueur_B);
+        if(score_joueur_A > score_joueur_B){
+            System.out.println("Le vainqueur est le joueur A");
+        } else {
+            System.out.println("Le vainqueur est le joueur B");
+        }
+
+
 
     }
 
