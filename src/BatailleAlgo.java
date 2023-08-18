@@ -41,9 +41,9 @@ public class BatailleAlgo {
         }
         System.out.println("Le score final est de , Joueur A :" + score_joueur_A + " | joueur B :" + score_joueur_B);
         if(score_joueur_A > score_joueur_B){
-            System.out.println("Le vainqueur est le joueur A");
+            System.out.println("Le perdant est le joueur  B. Donc c'est toi qui sortiras la poubelle");
         } else {
-            System.out.println("Le vainqueur est le joueur B");
+            System.out.println("Le perdant  est le joueur A . Donc c'est toi qui sortiras la poubelle");
         }
 
 

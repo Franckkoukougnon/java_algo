@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44940577-4153-44e9-9e9c-e2ed73546558" name="Changes" comment="Algo Bataille">
+    <list default="true" id="44940577-4153-44e9-9e9c-e2ed73546558" name="Changes" comment="Algo Bataille factorisation">
+      <change afterPath="$PROJECT_DIR$/src/Employe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeManut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeManutRisque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeProd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeRisque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeVente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BatailleAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BatailleAlgo.java" afterDir="false" />
     </list>
@@ -113,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692353781083</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algo Bataille factorisation">
+      <created>1692361949262</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692361949262</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +145,8 @@
     <MESSAGE value="revisions Java algo" />
     <MESSAGE value="resolution Algo moto" />
     <MESSAGE value="Algo Bataille" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algo Bataille" />
+    <MESSAGE value="Algo Bataille factorisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algo Bataille factorisation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
